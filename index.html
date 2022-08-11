@@ -35,6 +35,8 @@
 <select name="Recipes Search" id="Recipes Search">
 
 <option value="nothing" selected="selected"> Recipes Search </option>
+	
+<option value="website.html"> American Colonial Apple Pie </option>
 
 </select>
 
@@ -93,19 +95,26 @@ div {text-align:center}
 
 <script type="text/javascript">
 
-    function searchit() {
+function searchit() {
 	
-	document.getElementById("hp").href=(("https://www.google.com/search?q=")+ 
+document.getElementById("hp").href=(("https://www.google.com/search?q=")+ 
 	
-	(document.getElementById("linkit").value));
+(document.getElementById("linkit").value));
 
 }
 
+script type"text/javascript">
+
+var urlMenu = document.getElementById('Recipes Search');
+
+urlMenu.onchange = function() {
+
+var userOption = this.options(this.selectedIndex);
+
+}
+
+</script> 
 
 </script>
-
-
-
-
 
 </html>

@@ -1,0 +1,149 @@
+html>
+
+<form>
+
+<a href="https://curaliberavitrecipesdesign.on.drv.tw/Home/">|| Home |</a><a href="https://www.facebook.com/profile.php?id=100083218505590">| Facebook |</a><a href="https://www.instagram.com/curaliberavit/">| Instagram |</a><a href ="https://www.paypal.com/paypalme/my/settings?flow=cmV0dXJuVXJsPS9teWFjY291bnQvdHJhbnNmZXIvaG9tZXBhZ2UvbW9yZSZjYW5jZWxVcmw9L215YWNjb3VudC90cmFuc2Zlci9ob21lcGFnZS9tb3Jl">| Paypal |</a><a href="mailto:unusxscinan77@gmail.com">| Email |</a><a href="https://www.linkedin.com/in/scott-leary-1a4107242/">| Linkedin ||</a>
+
+</form>
+
+<header>
+
+<h1 id="heading"><u><b> Microware Brownies </b></u></h1></header>
+
+</header>
+
+<a>
+
+<input placeholder="Google Search..." id="linkit">
+
+<a href="" id="hp" onclick="searchit()"><button>Enter Search</button></a>
+
+<br />
+
+</a>
+
+<br />
+
+<head>
+
+<title> Microware Brownies </title>
+
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<id><b>Ingredients:</b></id>
+
+<ul>
+
+<li> 1/4 cup (40g) of self-raising flour </li>
+<li> 1/4 cup (60g) of caster suger </li>
+<li> 2 tablespoon of cocoa </li>
+<li> 2 tablespoon of vegetable oil </li>
+<li> 3 tablespoon (60g) of water </li>
+<li> 1/2 teaspoon of icing suger </li>
+
+
+</ul>
+
+<body>
+
+<p><b> Equipment tools: </b></p>
+
+</body>
+
+<ul>
+
+<li> cup </li>
+<li> Measuring cup </li>
+<li> Teaspoon </li>
+<li> Tablespoon </li>
+<li> Microware </li>
+
+</ul>
+
+<p><u> Let Create The Recipe: </u></p>
+
+<ol> 
+<ol>
+
+
+
+
+<li> Add a 300mls of water to the pot. </li>
+<li> 50g of butter into a pot. </li>
+<li> 50g of lard into the pot and put it all of the ingredients into the pot to boil it down with a spoon. </li>
+<li> Add three cups of plain flours. </li>
+<li> Add one teaspoon of salt and mix it up together with a wooden spoon. </li>
+<li> Now remove the pot from the stove and next pour it in a bowl. </li>
+<li> And mix it together with your wooden spoon. </li>
+<li> Put some floor on your table for preparing the pie paste and mix them up into a ball in your hand. </li>
+<li> And cut them up into two balls of pie paste. </li>
+<li> Add flour on your rolling pin and roll it down one of your first pie paste ball into a first flat pie paste layer with a rolling pin. </li>
+<li> Now spread the first flat pie paste into the pie plate by going around the edge inside of the pie plate and in the bottom of the pie plate. </li>
+<li> And remove the added pie plate edge around the outer part. </li>
+<li> And put the first layer of slice nude apples on top of your first layer of pie paste. </li>
+<li> Add four tablespoons of sugars on top of your first layer of slice nude apples. </li>
+<li> And make some cut up lemon skins into very small cubes and put a one tablespoon of lemon zest (cut up lemon skins) on top of the first layer of the slice nude apples. </li>
+<li> Add 150mls of lemon juice on top of the first layer of slice nude apples. </li>
+<li> Add a teaspoon of cinnamon on top of the first layer of slice nude apple. </li>
+<li> And add the second layer of slice nude apples on top of the first layer of slice nude apples. </li>
+<li> And add four tablespoons of sugars on top of your final second layer of slice nude apples. </li>
+<li> And add the apple sauce on top of the final second layer of slice nude apple. </li>
+<li> And next roll your other one of your second ball of pie paste into a final second flat pie paste. </li>
+<li> And add it on top of your second layer of nude apple. And cut around the edge outside of the pie plate. </li>
+<li> Cook the apples pie for 185 degrees in the oven for 30 minutes or 45 minutes. </li>
+<li> Take the apple pie out of the oven and cut around a circle like around the inside of the crust edge 30mm in. </li>
+<li> And turn the middle crust into triangle. </li>
+<li> Add the triangle crusts and the custard into the hole inside of the apple pie. </li>
+<p> Designer: Scott N' Leary </p>
+
+</ol>
+</ol>
+
+</body>
+
+<br />	
+
+<footer>
+
+<div class="copyright">
+
+ <p>Copyright &copy; 2021 - 2022</p>
+ 
+ <p> https://curaliberavitrecipesdesign.on.drv.tw </p>
+ 
+</div>
+
+</footer>
+	
+<style>
+
+header {text-align:center}
+
+form {text-align:center}
+
+div {text-align:center}
+
+script {text-align:center}
+
+</style>
+
+<script type="text/javascript">
+
+    function searchit() {
+	
+	document.getElementById("hp").href=(("https://www.google.com/search?q=")+ 
+	
+	(document.getElementById("linkit").value));
+
+}
+
+
+</script>
+
+</html>
